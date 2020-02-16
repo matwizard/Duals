@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1581865229 source:c:\users\jb\documents\c++ projects\duals_v2\main.cpp
+	<iostream>
+
+1581865249 source:c:\users\jb\documents\github\duals_v2\main.cpp
+	<iostream>
+
+1581865249 source:c:\users\jb\documents\github\duals\main.cpp
+	<iostream>
+
